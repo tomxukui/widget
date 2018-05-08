@@ -28,7 +28,4 @@ dependencies {
     implementation rootProject.ext.dependencies["cardview-v7"]
     implementation rootProject.ext.dependencies["design"]
 
-    //刷新 https://github.com/scwang90/SmartRefreshLayout
-    api 'com.scwang.smartrefresh:SmartRefreshLayout:1.0.4-1'
-
 }

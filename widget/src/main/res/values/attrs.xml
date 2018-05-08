@@ -5,13 +5,6 @@
         <attr name="kvp_pagingEnabled" format="boolean" />
     </declare-styleable>
 
-    <declare-styleable name="MaterialHeader">
-        <attr name="mh_PrimaryColor" format="color" />
-        <attr name="mh_ShadowColor" format="color" />
-        <attr name="mh_ShadowRadius" format="dimension" />
-        <attr name="mh_ShowBezierWave" format="boolean" />
-    </declare-styleable>
-
     <declare-styleable name="PwdEyeView">
         <attr name="pev_isDisplay" format="boolean" />
     </declare-styleable>
