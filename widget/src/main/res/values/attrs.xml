@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="KViewPager">
+        <attr name="kvp_pagingEnabled" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="MaterialHeader">
+        <attr name="mh_PrimaryColor" format="color" />
+        <attr name="mh_ShadowColor" format="color" />
+        <attr name="mh_ShadowRadius" format="dimension" />
+        <attr name="mh_ShowBezierWave" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="PwdEyeView">
+        <attr name="pev_isDisplay" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="FlipTextSwitcher">
+        <attr name="android:textSize" />
+        <attr name="android:textColor" />
+        <attr name="android:gravity" />
+        <attr name="fts_delay" format="integer" />
+        <attr name="fts_period" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="SegmentControlView">
+        <attr name="scv_textColor_nor" format="color" />
+        <attr name="scv_textColor_selected" format="color" />
+        <attr name="scv_textBg_nor" format="reference" />
+        <attr name="scv_textBg_selected" format="reference" />
+        <attr name="scv_textSize" format="dimension" />
+        <attr name="scv_textPaddingLeft" format="dimension" />
+        <attr name="scv_textPaddingTop" format="dimension" />
+        <attr name="scv_textPaddingRight" format="dimension" />
+        <attr name="scv_textPaddingBottom" format="dimension" />
+    </declare-styleable>
+
+</resources>

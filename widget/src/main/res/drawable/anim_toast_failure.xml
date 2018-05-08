@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:drawable="@drawable/ic_toast_failure"
+    tools:ignore="NewApi">
+
+    <target
+        android:name="circle"
+        android:animation="@animator/vector_toast_failure_circle" />
+
+    <target
+        android:name="line1"
+        android:animation="@animator/vector_toast_failure_line1" />
+
+    <target
+        android:name="line2"
+        android:animation="@animator/vector_toast_failure_line2" />
+
+</animated-vector>
